@@ -7,20 +7,21 @@ const shirtSchema = new Schema({
     unique: true,
     trim: true,
   },
-  size: [
-    {
-      type: String,
-      default: "M",
-      trim: true,
-    },
-  ],
+  size:
+  {
+    type: [String],
+    trim: false,
+  },
   inStock: {
     type: Boolean,
     default: true,
   },
-  category: {
+  price: {
     type: String,
   },
+  imgurl: {
+    type: String,
+  }
 });
 
 const Shirt = model('Shirt', shirtSchema);
