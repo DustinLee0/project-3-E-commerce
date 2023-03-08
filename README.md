@@ -74,6 +74,6 @@ On code is  is free and open-source software licensed under the [![License: MIT]
 
 * [Dustin Lee](https://github.com/DustinLee0)
 * [Ekamjot Sidhu](https://github.com/EkamjotSidhu)
-* [Mayank Kalra](https://github.com/MayankKalra96)
+<!-- * [Mayank Kalra](https://github.com/MayankKalra96)
 * [Andres Chaux](https://github.com/andres192x)
-* [Nebiat Nana](https://github.com/NebiatHNana)
+* [Nebiat Nana](https://github.com/NebiatHNana) -->

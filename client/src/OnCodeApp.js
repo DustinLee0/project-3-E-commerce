@@ -51,7 +51,6 @@ function OnCodeApp() {
 
   }
 
-
   return (
     <ApolloProvider client={client}>
       <main>
